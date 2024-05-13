@@ -1,4 +1,12 @@
 # 게시판 프로젝트
+## 언어
+- Java
+- JavaScript
+- Html5
+- Css3
+- STS4
+- Thymeleaf
+- Maven
 ## 기간
 2022.07 ~ 2022.08
 ## 게시판 CRUD 프로젝트
